@@ -19,3 +19,4 @@ This list should be done top down or Cavalry then top down.
     * **Rattan Marksman** (*Good ranged unit, with loads of over time damage, but has a large damage fall off on long range*)
         * **Rattan Rangers** (*Probably the best Hero killing units, in the game*)
     * **Imperial Archers** (*High armor penetration, but no over time damage*)
+    * **Icendiary Archers** (*Counters Rattan Rangers and temporarily disable shield units*)
