@@ -4,7 +4,7 @@
 5
 
 ## Unit count
-211
+21
 
 ## Maximum Level
 30
