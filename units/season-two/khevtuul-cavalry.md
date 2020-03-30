@@ -13,18 +13,19 @@
 245 (240 during season two)
 
 ## Unit traits
-* [](../../unit-traits/.md)
+* [Bows & Blades](../../unit-traits/bows-and-blades.md)
 * [Season Two](../../unit-traits/season-two.md)
 
 ## Formations
 * [Dispersed](../../formations/dispersed.md)
+* [Wedge](../../formations/wedge.md)
 
 ## Terrain Effects
-* [Desert](../../terrain-effects/desert) - Poor
-* [Plains](../../terrain-effects/) - Fair
-* [Hills](../../terrain-effects/) - Great
-* [Steppe](../../terrain-effects/) - Fair
-* [Urban](../../terrain-effects/) - Fair
+* [Desert](../../terrain-effects/desert) - Great
+* [Plains](../../terrain-effects/plains) - Good
+* [Hills](../../terrain-effects/hills) - Bad
+* [Steppe](../../terrain-effects/steppe) - Bad
+* [Urban](../../terrain-effects/urban) - Bad
 
 ## Prerequisites
 

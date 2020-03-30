@@ -13,18 +13,18 @@
 350 (345 during season two)
 
 ## Unit traits
-* [](../../unit-traits/.md)
+* [Relentless Raid](../../unit-traits/relentless-raid.md)
 * [Season Two](../../unit-traits/season-two.md)
 
 ## Formations
 * [Dispersed](../../formations/dispersed.md)
 
 ## Terrain Effects
-* [Desert](../../terrain-effects/desert) - Poor
-* [Plains](../../terrain-effects/) - Fair
-* [Hills](../../terrain-effects/) - Great
-* [Steppe](../../terrain-effects/) - Fair
-* [Urban](../../terrain-effects/) - Fair
+* [Desert](../../terrain-effects/desert) - Fair
+* [Plains](../../terrain-effects/plains) - Great
+* [Hills](../../terrain-effects/hills) - Bad
+* [Steppe](../../terrain-effects/steppe) - Good
+* [Urban](../../terrain-effects/urban) - Poor
 
 ## Prerequisites
 

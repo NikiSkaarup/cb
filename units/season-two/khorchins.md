@@ -13,18 +13,19 @@
 175 (170 during season two)
 
 ## Unit traits
-* [](../../unit-traits/.md)
+* [Plains Hunters](../../unit-traits/plains-hunters.md)
+* [Light Attack](../../unit-traits/light-attack.md)
 * [Season Two](../../unit-traits/season-two.md)
 
 ## Formations
 * [Dispersed](../../formations/dispersed.md)
 
 ## Terrain Effects
-* [Desert](../../terrain-effects/desert) - Poor
-* [Plains](../../terrain-effects/) - Fair
-* [Hills](../../terrain-effects/) - Great
-* [Steppe](../../terrain-effects/) - Fair
-* [Urban](../../terrain-effects/) - Fair
+* [Desert](../../terrain-effects/desert) - Good
+* [Plains](../../terrain-effects/) - Good
+* [Hills](../../terrain-effects/) - Bad
+* [Steppe](../../terrain-effects/) - Bad
+* [Urban](../../terrain-effects/) - Bad
 
 ## Prerequisites
 

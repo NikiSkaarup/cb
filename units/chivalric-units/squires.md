@@ -23,10 +23,10 @@
 
 ## Terrain Effects
 * [Desert](../../terrain-effects/desert) - Bad
-* [Plains](../../terrain-effects/) - Good
-* [Hills](../../terrain-effects/) - Bad
-* [Steppe](../../terrain-effects/) - Bad
-* [Urban](../../terrain-effects/) - Great
+* [Plains](../../terrain-effects/plains) - Good
+* [Hills](../../terrain-effects/hills) - Bad
+* [Steppe](../../terrain-effects/steppe) - Bad
+* [Urban](../../terrain-effects/urban) - Great
 
 ## Prerequisites
 
