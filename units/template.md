@@ -1,24 +1,22 @@
-# Rattan Marksmen
+# 
 
 ## Stars
-3
+
 
 ## Unit count
-28
+
 
 ## Maximum Level
-16
+
 
 ## Leadership cost
-180
+
 
 ## Unit traits
-* [Rattan Armour](../../unit-traits/rattan-armour.md)
-* [Repeating Crossbow](../../unit-traits/repeating-crossbow.md)
+* [](../../unit-traits/.md)
 
 ## Formations
 * [Dispersed](../../formations/dispersed.md)
-* [Three ranks](../../formations/three-ranks.md)
 
 ## Terrain Effects
 * [Desert](../../terrain-effects/desert) - Poor
@@ -32,4 +30,3 @@
 ## Veterancy tree
 
 ## Notes
-Can have a chance to fire poison tipped darts or flaming darts with last points in veterancy
