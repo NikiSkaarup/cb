@@ -1,3 +1,3 @@
 # Dispersed
 
-"A loose formation that reduces unit vulnerability to ranged weapons"
+> A loose formation that reduces unit vulnerability to ranged weapons
