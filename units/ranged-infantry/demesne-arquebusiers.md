@@ -1,30 +1,31 @@
-# Vanguard Archers
+# Demesne Arquebusiers
 
 ## Stars
 3.5
 
 ## Unit count
-30
+21
 
 ## Maximum Level
-18
+17
 
 ## Leadership cost
-160
+200
 
 ## Unit traits
-* [Guerrillas](../../unit-traits/guerrillas.md)
+* [Firearms](../../unit-traits/firearms.md)
+* [Mediocre Accuracy](../../unit-traits/mediocre-accuracy.md)
 
 ## Formations
 * [Dispersed](../../formations/dispersed.md)
-* [wings](../../formations/wings.md)
+* [Three-ranks](../../formations/three-ranks.md)
 
 ## Terrain Effects
 * [Desert](../../terrain-effects/desert) - Bad
 * [Plains](../../terrain-effects/plains) - Good
 * [Hills](../../terrain-effects/hills) - Fair
-* [Steppe](../../terrain-effects/steppe) - Good
-* [Urban](../../terrain-effects/urban) - Fair
+* [Steppe](../../terrain-effects/steppe) - Fair
+* [Urban](../../terrain-effects/urban) - Great
 
 ## Prerequisites
 

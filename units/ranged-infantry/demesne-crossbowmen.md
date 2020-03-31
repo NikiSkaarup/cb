@@ -1,32 +1,32 @@
-# Imperial Arquebusiers
+# Demesne Crossbowmen
 
 ## Stars
-4
+2
 
 ## Unit count
-24
+30 (36 with veterancy bonuses)
 
 ## Maximum Level
-18
+14
 
 ## Leadership cost
-270
+140
 
 ## Unit traits
-* [Firearms](../../unit-traits/firearms.md)
-* [Fire by Ranks](../../unit-traits/fire-by-ranks.md)
-* [Poor Shots](../../unit-traits/poor-shots.md)
+* [No Volleys](../../unit-traits/no-volleys.md)
+* [Mediocre Accuracy](../../unit-traits/mediocre-accuracy.md)
 
 ## Formations
 * [Dispersed](../../formations/dispersed.md)
 * [Three Ranks](../../formations/three-ranks.md)
+* [Block](../../formations/block.md)
 
 ## Terrain Effects
 * [Desert](../../terrain-effects/desert) - Bad
-* [Plains](../../terrain-effects/plains) - Good
+* [Plains](../../terrain-effects/plains) - Fair
 * [Hills](../../terrain-effects/hills) - Fair
 * [Steppe](../../terrain-effects/steppe) - Fair
-* [Urban](../../terrain-effects/urban) - Great
+* [Urban](../../terrain-effects/urban) - Good
 
 ## Prerequisites
 
