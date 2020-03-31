@@ -68,11 +68,11 @@
 * [Vassal Longbowmen](units\ranged-infantry\vassal-longbowmen.md)
 
 ## Rattan Army
-* [](units\rattan-army\rattan-marksmen.md)
-* [](units\rattan-army\rattan-pikemen.md)
-* [](units\rattan-army\rattan-rangers.md)
-* [](units\rattan-army\rattan-roundshields.md)
-* [](units\rattan-army\rattan-vipers.md)
+* [Rattan Marksmen](units\rattan-army\rattan-marksmen.md)
+* [Rattan Pikemen](units\rattan-army\rattan-pikemen.md)
+* [Rattan Rangers](units\rattan-army\rattan-rangers.md)
+* [Rattan Roundshields](units\rattan-army\rattan-roundshields.md)
+* [Rattan Vipers](units\rattan-army\rattan-vipers.md)
 
 ## Season Two
 * [Khesigs](units\season-two\kheshigs.md)
