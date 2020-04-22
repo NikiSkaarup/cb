@@ -1,4 +1,4 @@
-# Kriegsrat Fusiliers.
+# Kriegsrat Fusiliers
 
 ## Stars
 4.5
